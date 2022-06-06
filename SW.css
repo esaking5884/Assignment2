@@ -1,0 +1,12 @@
+h1{
+    text-align:center;
+}
+.time{
+    font-size:40px;
+    display:flex;
+    justify-content:center;
+}
+.buttonContainer{
+    display:flex;
+    justify-content:center;
+}
