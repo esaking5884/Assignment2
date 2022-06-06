@@ -1,7 +1,27 @@
+body{
+    min-width:500px;
+}
 h1{
     text-align:center;
 }
+.parent{
+    margin:0 auto 20px;
+    position:relative;
+    width:500px;
+}
+.SWgif{
+    display:block;
+    margin:0 auto;
+    width:300px;
+    
+}
 .time{
+    width:220px;
+    position:absolute;
+    left:140px;
+    top:110px;
+    background-color:#fff;
+    border-radius: 20px;
     font-size:40px;
     display:flex;
     justify-content:center;
